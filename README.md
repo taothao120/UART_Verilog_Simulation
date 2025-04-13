@@ -1,6 +1,6 @@
 # UART_Verilog_Simulation
  
-Environment: Simulator Sysnopsys VCS in EDAplayground
+Environment: Sysnopsys VCS Simulator in EDAplayground
 
 Simple UART communication simulation - write to learn UART protocol
 
