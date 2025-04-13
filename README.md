@@ -6,7 +6,7 @@ Simple UART communication simulation - write to learn UART protocol
 
 ![UART_TX_RX](./Figure/UART_Block.png)
 
-![Test](./Figure/Design_Test.png)
+![Test](./Figure/Design.png)
 
 ![FSM_Tx](./Figure/FSM_Transmitter.png)
 
